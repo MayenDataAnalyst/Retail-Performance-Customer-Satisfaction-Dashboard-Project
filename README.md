@@ -3,13 +3,13 @@ Here it is — ready to copy:
 ---
 
 ```markdown
-#🛍️ Retail Performance & Customer Satisfaction Dashboard
+🛍️ #Retail Performance & Customer Satisfaction Dashboard
 
 An interactive business intelligence dashboard built with **Google Looker Studio**, designed to provide a comprehensive view of retail sales performance, customer order behavior, and service quality metrics.
 
 ---
 
-##📊 Dashboard Overview
+📊 ##Dashboard Overview
 
 The dashboard presents key retail KPIs and visual breakdowns across multiple dimensions — from product-level income to regional delivery performance — enabling data-driven decisions for retail operations teams.
 
@@ -19,7 +19,7 @@ The dashboard presents key retail KPIs and visual breakdowns across multiple dim
 
 ---
 
-##🔢 Key Metrics (KPI Cards)
+🔢 ##Key Metrics (KPI Cards)
 
 | Metric | Value |
 |---|---|
@@ -30,9 +30,9 @@ The dashboard presents key retail KPIs and visual breakdowns across multiple dim
 
 ---
 
-##📈 Visualizations Included
+📈 ##Visualizations Included
 
-###1. Total Income by Products
+1. ##Total Income by Products
 
 A vertical bar chart comparing revenue generated across different product categories, helping identify top and bottom revenue drivers.
 
