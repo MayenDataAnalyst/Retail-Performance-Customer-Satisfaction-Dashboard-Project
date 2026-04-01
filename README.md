@@ -1,15 +1,10 @@
-Here it is — ready to copy:
-
----
-
-```markdown
-🛍️ #Retail Performance & Customer Satisfaction Dashboard
+🛍️ **Retail Performance & Customer Satisfaction Dashboard**
 
 An interactive business intelligence dashboard built with **Google Looker Studio**, designed to provide a comprehensive view of retail sales performance, customer order behavior, and service quality metrics.
 
 ---
 
-📊 ##Dashboard Overview
+📊 **Dashboard Overview**
 
 The dashboard presents key retail KPIs and visual breakdowns across multiple dimensions — from product-level income to regional delivery performance — enabling data-driven decisions for retail operations teams.
 
@@ -19,7 +14,7 @@ The dashboard presents key retail KPIs and visual breakdowns across multiple dim
 
 ---
 
-🔢 ##Key Metrics (KPI Cards)
+🔢 Key Metrics (KPI Cards)
 
 | Metric | Value |
 |---|---|
@@ -30,31 +25,31 @@ The dashboard presents key retail KPIs and visual breakdowns across multiple dim
 
 ---
 
-📈 ##Visualizations Included
+📈 **Visualizations Included**
 
-1. ##Total Income by Products
+1. **Total Income by Products**
 
 A vertical bar chart comparing revenue generated across different product categories, helping identify top and bottom revenue drivers.
 
-###2. Delivery Time by Customer Location
+2. **Delivery Time by Customer Location**
 
 A bar chart showing average delivery times segmented by customer location (e.g., Kampala, Wakiso, etc.), useful for logistics and fulfillment optimization.
 
-###3. Quantity Ordered by Products
+3. **Quantity Ordered by Products**
 
 A horizontal bar chart ranking products by the volume of units ordered — ideal for inventory planning and demand forecasting.
 
-###4. Customer Location by Quantity Ordered
+4. **Customer Location by Quantity Ordered**
 
 A pie chart breaking down the geographic distribution of orders by customer location, revealing which regions drive the most sales volume.
 
-###5. Service Rating by Products
+5. **Service Rating by Products**
 
 A bar chart comparing customer service ratings across product lines, helping teams pinpoint areas needing quality improvement.
 
 ---
 
-##🔍 Filters & Interactivity
+🔍 **Filters & Interactivity**
 
 The dashboard includes interactive filter controls:
 - **Products** — Filter all visuals by a specific product or category
@@ -62,7 +57,7 @@ The dashboard includes interactive filter controls:
 
 ---
 
-##🛠️ Built With
+🛠️ **Built With**
 
 - [Google Looker Studio](https://lookerstudio.google.com/) — Dashboard creation and visualization
 - [Google Sheets](https://docs.google.com/spreadsheets/d/1U33yJ_GFfFcZXDDZlBqDVOpjrIEe9Qj4YFbbi5SGBpg/edit?usp=sharing) — Data backend
@@ -70,7 +65,7 @@ The dashboard includes interactive filter controls:
 
 ---
 
-##🚀 How to Use
+🚀 **How to Use**
 
 1. Open the [Live Dashboard](https://lookerstudio.google.com/reporting/fe3e4967-6c5f-4cda-b03d-4a9bba624d33)
 2. Use the **Products** filter to drill into a specific product category
@@ -80,7 +75,7 @@ The dashboard includes interactive filter controls:
 
 ---
 
-##📁 Repository Structure
+📁 **Repository Structure**
 
 ```
 ├── README.md                   # Project documentation
